@@ -32,4 +32,4 @@ if is_prime:
 else:
     print(f"great job! The number {sum_of_num} is not a prime number.")
 # check nuber is even or odd
-#print(f"/nHello, {user_name}")
+#print(f"/nHello, {user_name}") git commit -m "initial commit"
